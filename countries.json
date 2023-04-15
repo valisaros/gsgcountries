@@ -778,5 +778,165 @@
     "maintenance": "Product Maintenance",
     "services": "Professional Services",
     "iorservice": ""
+  },
+  {
+    "name": "Gabon",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Gambia",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Georgia",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Germany",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Ghana",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Gibraltar",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Greece",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Greenland",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Central Only",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": ""
+  },
+  {
+    "name": "Grenada",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Guadeloupe",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Central Only",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": ""
+  },
+  {
+    "name": "Guam",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Central Only",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": ""
+  },
+  {
+    "name": "Guatemala",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Guernsey",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Central Only",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Guinea",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Central Only",
+    "supply": "",
+    "maintenance": "",
+    "services": "",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Central Only",
+    "supply": "",
+    "maintenance": "",
+    "services": "",
+    "iorservice": ""
+  },
+  {
+    "name": "Guyana",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
   }
 ]
