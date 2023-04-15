@@ -938,5 +938,145 @@
     "maintenance": "Product Maintenance",
     "services": "Professional Services",
     "iorservice": "IoR Service"
+  },
+  {
+    "name": "Haiti",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Central Only",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": ""
+  },
+  {
+    "name": "Honduras",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Hong Kong",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Hungary",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Iceland",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "India",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Indonesia",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Central Only",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Iran (Islamic Republic of)",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Central Only",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": ""
+  },
+  {
+    "name": "Iraq",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Ireland",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Isle of Man",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Israel",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Italy",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
   }
 ]
