@@ -1078,5 +1078,115 @@
     "maintenance": "Product Maintenance",
     "services": "Professional Services",
     "iorservice": "IoR Service"
+  },
+  {
+    "name": "Jamaica",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Japan",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Jersey",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Jordan",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Kazakhstan",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Kenya",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Kiribati",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Central Only",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": ""
+  },
+  {
+    "name": "Korea (Democratic Peoples Republic of)",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Central Only",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": ""
+  },
+  {
+    "name": "Korea (Republic of)",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Kuwait",
+    "member": "Member of the Preferred Partner Network",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Local or Central",
+    "supply": "Product Supply",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": "IoR Service"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "member": "",
+    "deliver": "Delivered via T1Vendor",
+    "billing": "Billing Model: Central Only",
+    "supply": "",
+    "maintenance": "Product Maintenance",
+    "services": "Professional Services",
+    "iorservice": ""
   }
 ]
